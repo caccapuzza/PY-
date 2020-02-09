@@ -1,0 +1,3 @@
+while x>a :
+	x = input ()
+	print (x)	
